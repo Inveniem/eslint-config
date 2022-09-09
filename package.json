@@ -8,7 +8,7 @@
   "homepage": "https://github.com/inveniem/eslint-config-inveniem#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/inveniem/eslint-config-inveniem"
+    "url": "git+https://github.com/inveniem/eslint-config-inveniem.git"
   },
   "bugs": {
     "url": "https://github.com/inveniem/eslint-config-inveniem/issues"
