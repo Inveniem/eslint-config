@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Inveniem's reusable ESLint configuration",
   "main": "index.js",
-  "author": "John Karahalis <john.karahalis@gmail.com>",
+  "author": "John Karahalis <john.karahalis@inveniem.com>",
   "license": "MIT",
   "homepage": "https://github.com/inveniem/eslint-config-inveniem#readme",
   "repository": {
