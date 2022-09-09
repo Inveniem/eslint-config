@@ -64,7 +64,7 @@ module.exports = {
           "object",
           "type",
         ],
-        "newlines-between": "always",
+        "newlines-between": "always-and-inside-groups",
         warnOnUnassignedImports: true,
       },
     ],
