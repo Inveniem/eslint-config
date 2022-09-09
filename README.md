@@ -11,6 +11,6 @@ configuration.
 
 ```javascript
 module.exports = {
-  "extends": "inveniem",
+  extends: "inveniem",
 };
 ```
