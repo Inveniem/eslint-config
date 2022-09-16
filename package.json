@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-inveniem",
+  "name": "@inveniem/eslint-config-inveniem",
   "version": "1.0.0",
   "description": "Inveniem's reusable ESLint configuration",
   "main": "index.js",
