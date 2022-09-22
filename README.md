@@ -5,7 +5,7 @@ configuration.
 
 ## Usage
 
-1. Run `yarn --dev @inveniem/eslint-config`
+1. Run `yarn add --dev @inveniem/eslint-config`
 2. Run `npx install-peerdeps --dev @inveniem/eslint-config`
 3. Create an _.eslintrc.js_ file with the following contents:
 
