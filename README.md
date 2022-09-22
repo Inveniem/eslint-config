@@ -11,6 +11,6 @@ configuration.
 
 ```javascript
 module.exports = {
-  extends: "@inveniem/eslint-config",
+  extends: '@inveniem/eslint-config',
 };
 ```
