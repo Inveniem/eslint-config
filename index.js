@@ -1,5 +1,4 @@
 module.exports = {
-  root: true,
   extends: ['drupal'],
   ignorePatterns: [
     // Ignore generated files.
