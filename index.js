@@ -106,11 +106,18 @@ module.exports = {
       },
     },
 
-    // Allow devDependencies to be imported in files named _vite.config.js_ and
-    // _vite.config.ts_. This configuration needs to be provided after the
-    // configuration for TypeScript files to override those rules.
+    // Allow devDependencies to be imported in files with certain names.
+    //
+    // This configuration needs to be provided after the configuration for
+    // TypeScript files to override those rules.
     {
-      files: ['vite.config.{js,ts}'],
+      files: [
+        '.eslintrc.{js,ts}',
+        '.prettierrc.{js,ts}',
+        '.stylelintrc.{js,ts}',
+        'cypress.config.{js,ts}',
+        'vite.config.{js,ts}',
+      ],
       rules: {
         'import/no-extraneous-dependencies': [
           'error',
